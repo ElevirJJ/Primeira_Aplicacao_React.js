@@ -1,0 +1,55 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    background-color: #21272B;;
+}
+
+.cabecalho-header{
+    display: flex;
+}
+
+.texto{
+    margin-left: 1rem;
+}
+
+.texto h1{
+    color: aqua;
+    font-style: italic;
+}
+
+.texto h2{
+    font-style: italic;
+    color: #fff;
+}
+
+.navbar{
+    margin-right: 10rem;
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar ul li{
+    padding: 0 20px;
+    color: aliceblue;
+}
+
+.navbar ul li a{
+    color: aliceblue;
+}
+
+.navbar ul li:not(:last-child){
+    border-right: 1px solid #fff;
+    padding: 0 20px;
+    
+}
+
+.navbar ul li{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}

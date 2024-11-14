@@ -1,0 +1,37 @@
+.barco-grande img{
+    width: 100%;
+}
+
+.caixa{
+    position: absolute;
+    background-color: #1A3243;
+    padding: 20px 20px;
+    left: 55%;
+    top: 55%;
+}
+
+.caixa h4{
+    font-style: italic;
+    color: #fff;
+}
+
+.tel{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.barquinho{
+    margin-top: 10px;
+}
+
+.infomacao p{
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.infomacao span{
+    color:  #C6B07F;
+}
+
+

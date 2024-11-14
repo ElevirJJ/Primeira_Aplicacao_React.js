@@ -1,0 +1,80 @@
+.section{
+    display: flex;
+    align-items: center;
+}
+
+.section-1{
+    padding-left: 20px;
+}
+
+.cabecalho-1{
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    width: 84%;
+    margin-top: 3px;
+
+}
+
+.cabecalho-1 h3{
+    font-style: italic;
+    color: aliceblue;
+}
+
+.infomacao{
+    margin-top: 20px;
+}
+
+.infomacao h5{
+    font-style: italic;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.descricao{
+    margin-top: 20px;
+    font-size: 13px;
+    width: 80%;
+}
+
+.cards{
+    margin-top: 30px;
+}
+
+
+/* Nossa Frota*/
+
+.cabecalho{
+    background-color:  #C6B07F;
+    width: 84%;
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
+    margin-top: -0px;
+   
+}
+
+
+.titulo h3{
+    font-style: italic;
+    color: white;
+    margin-left: 10px;
+}
+
+.cardss{
+    margin-top: 30px;
+}
+
+.barconossafrota1{
+    margin-left: 13px;
+}
+
+.barconossafrota2{
+    margin-left: 13px;
+}
+
+.barconossafrota{
+    margin-top: 10px;
+}
+
+

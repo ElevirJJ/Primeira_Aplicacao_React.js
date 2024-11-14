@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  width: 1080px;
+  margin: 0 auto;
+  border: #f0f0f0 solid 1px;
+}
